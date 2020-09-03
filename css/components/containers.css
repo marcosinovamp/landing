@@ -1,0 +1,23 @@
+.container{
+  background-color: #023047;
+  color: #9a8c98;
+  width: 90%;
+  text-align: center;
+  margin:auto;
+}
+
+.container h1{
+  font-size: 40px;
+  font-weight: 100;
+  text-shadow:1px 1px 3px #14213d;
+}
+
+.container h2{
+  font-size: 30px;
+  font-weight: 100;
+  text-shadow:1px 1px 3px #14213d;
+}
+
+.container > p{
+  font-style:italic;
+}

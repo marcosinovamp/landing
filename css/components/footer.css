@@ -1,0 +1,21 @@
+.footer{
+  width:100%;
+  background-color:black;
+  color:white;
+  height:250px;
+  font-size:12px;
+  padding:20px;
+  text-align:center;
+}
+
+.footer a{
+  font-size:35px;
+  text-decoration:none;
+  color:white;
+  margin:3px;
+}
+
+.footer a:hover{
+  font-size:50px;
+  text-shadow: 1px 1px 3px grey;
+}
